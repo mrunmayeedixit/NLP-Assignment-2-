@@ -1,0 +1,7 @@
+Temp_Category,Correct_Context_Count,Total_Posts,Accuracy (%)
+Language Modeling,1,500,0.2
+NLP Libraries,0,500,0.0
+Named Entity Recognition,3,500,0.6
+Sentiment Analysis,38,500,7.6
+Text Classification,0,500,0.0
+Text Preprocessing,0,500,0.0
